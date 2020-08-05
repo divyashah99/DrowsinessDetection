@@ -1,6 +1,7 @@
 # Drowsiness Detection
 
-## This project aims to play an alarm to wake up the user(driver) if the eyes are closed for a certain amount of time
+## Description
+This project aims to play an alarm to wake up the user(driver) if the eyes are closed for a certain amount of time
 
 ## Execution 
 ```bash
